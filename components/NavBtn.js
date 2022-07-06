@@ -1,12 +1,14 @@
-import { StyleSheet, Image } from "react-native";
+import { StyleSheet, Image, Button, TouchableHighlight } from "react-native";
 
 const NavBtn = (props)=>{
     return(
-        <Image source={{
-            uri: props.icone
-        }}
-            style={styles.imgIcone}
-        />
+        <TouchableHighlight onPress={props.action}>
+            <Image  source={{
+                uri: props.icone
+            }}
+                style={styles.imgIcone}
+            />
+        </TouchableHighlight>
     )
 
 }

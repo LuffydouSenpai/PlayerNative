@@ -1,5 +1,6 @@
 const playlist = [{
-        "mp3": "assets/mp3/Tsukimichi op.mp3",
+        /* "mp3": "assets/mp3/Tsukimichi op.mp3", */
+        "mp3": "https://julien-touchard.com/formations/mp3/its-bigger-than-hip-hop-dead-prez.mp3",
         /* "cover": "./assets/img/cover/tsukimichi.jpg", */
         "cover" : "https://static.miraheze.org/bluearchivewiki/6/63/Shiroko.png?version=5dc992d922ff3a11cb763f997aa5e5c8",
         "title": "Gamble",
@@ -9,7 +10,8 @@ const playlist = [{
         "description": "Tsukimichi: Moonlit Fantasy"
     },
     {
-        "mp3": "assets/mp3/Shadows House  ed.mp3",
+        /* "mp3": "assets/mp3/Shadows House  ed.mp3", */
+        "mp3": "https://julien-touchard.com/formations/mp3/the-pharcyde-passin-me-by.mp3",
         /* "cover": "./assets/img/cover/shadows house.jpg", */
         "cover" : "https://static.miraheze.org/bluearchivewiki/8/83/Hina.png?version=8c88193cd26f0e025342e336e369b9d6",
         "title": "Nai Nai",
@@ -19,7 +21,8 @@ const playlist = [{
         "description": "Shadows House"
     },
     {
-        "mp3": "assets/mp3/Moon Halo - Honkai Impact 3rd Valkyrie Theme.mp3",
+        /* "mp3": "assets/mp3/Moon Halo - Honkai Impact 3rd Valkyrie Theme.mp3", */
+        "mp3": "https://julien-touchard.com/formations/mp3/soul-of-mischief-93-til-infinity.mp3",
         /* "cover": "./assets/img/cover/moon halo.jpg", */
         "cover" : "https://static.miraheze.org/bluearchivewiki/a/a9/Hoshino.png?version=0c195e4bae0af84f5d7975657af7a7c9",
         "title": "Moon Halo",
